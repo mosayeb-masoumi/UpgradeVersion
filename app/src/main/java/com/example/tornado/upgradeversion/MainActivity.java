@@ -32,7 +32,7 @@ import java.net.URL;
 public class MainActivity extends AppCompatActivity {
 
     Button btnUpgrade;
-    String Version="2.0";
+    String Version="1.0";
     String VersionUrl = "http://android.gazrapor.ir/nikandroid/version.txt";
 
     //address file aok ke ghara ast upgrade shavad
